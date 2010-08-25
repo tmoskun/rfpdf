@@ -43,6 +43,10 @@ to:
 ENJOY!
 
 ----------------------------------------------------------------
+Before using the plugin for html formatting, install the following gems:
+
+gem install hpricot
+gem install htmlentities
 
 Transferring HTML formatting into the pdf document
 
