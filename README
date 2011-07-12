@@ -48,7 +48,10 @@ Before using the plugin for html formatting, install the following gems:
 gem install hpricot
 gem install htmlentities
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 11f01cbf46c09c896dff6fcce65fdc18d2337731
 Transferring HTML formatting into the pdf document
 
 parser = HTMLFormatter::Parser.new(doc, defaults)
